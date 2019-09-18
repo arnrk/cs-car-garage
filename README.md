@@ -1,14 +1,12 @@
 # Car Garage
 
 
-
 ## Installation instructions
 
 
 1. Clone the project to your `~/wcci/source_code` or `~/wcci/source/repos` directory.
 
 1. Open the project in Visual Studio and get started.
-
 
 
 ## Instructions
@@ -19,8 +17,6 @@
 1. Write production code to make the tests pass.
 
 1. Make a console application with an instance of a `Garage` for your user to interact with.
-
-
 
 ### Things to keep in mind
 
