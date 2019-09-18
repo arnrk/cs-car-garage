@@ -13,4 +13,8 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\cs-car-garage\cs-car-garage.csproj" />
+  </ItemGroup>
+
 </Project>
