@@ -2,7 +2,7 @@
 
 ## Installation instructions
 1. Clone the project to your `~/wcci/source_code` or `~/wcci/source/repos` directory.
-1. Open the project in Visual Studio and get started.
+1. Open the master branch of the project in Visual Studio and get started.
 
 ## Instructions
 1. Open test files and add the Act, Arrange, and Assert portions of the test to match the test name and instructions.
