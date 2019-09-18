@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-car-garage", "cs-car-garage\cs-car-garage.csproj", "{0EDA6B65-7CA9-4EC8-8DAF-6FC406926A6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-car-garage.Tests", "cs-car-garage.Tests\cs-car-garage.Tests.csproj", "{B86E43E2-CB9B-4E6F-B7FB-287F7E8BEC21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0EDA6B65-7CA9-4EC8-8DAF-6FC406926A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EDA6B65-7CA9-4EC8-8DAF-6FC406926A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDA6B65-7CA9-4EC8-8DAF-6FC406926A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86E43E2-CB9B-4E6F-B7FB-287F7E8BEC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86E43E2-CB9B-4E6F-B7FB-287F7E8BEC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86E43E2-CB9B-4E6F-B7FB-287F7E8BEC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86E43E2-CB9B-4E6F-B7FB-287F7E8BEC21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
